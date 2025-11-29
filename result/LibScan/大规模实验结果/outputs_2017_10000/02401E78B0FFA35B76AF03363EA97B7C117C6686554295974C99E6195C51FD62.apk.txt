@@ -1,4 +1,0 @@
-lib: commons-io-2.4
-similarity: 0.9693352541675242
-
-time: 87s

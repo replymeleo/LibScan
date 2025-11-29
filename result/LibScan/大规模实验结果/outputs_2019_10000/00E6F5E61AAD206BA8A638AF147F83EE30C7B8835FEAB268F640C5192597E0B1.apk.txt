@@ -1,4 +1,0 @@
-lib: bcprov-jdk15-1.46-jar2dex
-similarity: 0.9854629123543206
-
-time: 43s
