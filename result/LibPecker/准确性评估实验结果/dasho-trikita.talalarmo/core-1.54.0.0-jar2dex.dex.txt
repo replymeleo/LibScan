@@ -1,2 +1,0 @@
-similarity: 0.4725
-time: 473
